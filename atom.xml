@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>未央之家</title>
   
+  <subtitle>一个什么都有一点的博客贴</subtitle>
+  <link href="https://caschanser.cc/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
-  <updated>2025-07-13T11:14:42.068Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://caschanser.cc/"/>
+  <updated>2025-07-15T17:03:45.278Z</updated>
+  <id>https://caschanser.cc/</id>
   
   <author>
     <name>Miyo</name>
@@ -17,30 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="http://example.com/2025/07/13/test/"/>
-    <id>http://example.com/2025/07/13/test/</id>
+    <title>测试：第一篇博文</title>
+    <link href="https://caschanser.cc/2025/07/13/test/"/>
+    <id>https://caschanser.cc/2025/07/13/test/</id>
     <published>2025-07-13T11:06:18.000Z</published>
-    <updated>2025-07-13T11:14:42.068Z</updated>
+    <updated>2025-07-15T17:03:45.278Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="博客测试"><a href="#博客测试" class="headerlink" title="博客测试"></a>博客测试</h2><p>终于算是搭成自己的博客了，还记得自己初中就搞过这些博客搭建什么的，甚至申请过博客园<br>……</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="第一篇博文"><a href="#第一篇博文" class="headerlink" title="第一篇博文"></a>第一篇博文</h2><p>第一次写博客，总是卡文……</p><p>我和博客最初的故事，大概发生在初三和初四。那年我抱着「想要拥有个人网站」的想法开始研究搭建博客，依稀记得当时尝试过用Gridea在Github上面搭建博客，也注册过一个博客园账号，但均不了了之，最后空空如也。</p><p>而现在之所以又想起来博客搭建这事，大概是一时兴起，说起来也算「朝花夕拾」了吧。而这一次，博客的搭建是通过hexo框架完成的。因为自己近一年将linux作为主力系统使用的经历，面对hexo的命令行界面也是轻松上手。即使没有这段经历，熟练使用命令行也应该是每个CS学子的基本功。不但如此，我甚至还专门为自己的博客买了一个域名&lt;caschanser.cc&gt;。这也正是你们光临「未央之家」的方式，免去了 .github.io 这样的后缀。（也许某天会迁移到.com或者.org这样的顶级域名，不过这都是后话了）</p><p>总而言之，欢迎来到未央之家！</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h2 id=&quot;博客测试&quot;&gt;&lt;a href=&quot;#博客测试&quot; class=&quot;headerlink&quot; title=&quot;博客测试&quot;&gt;&lt;/a&gt;博客测试&lt;/h2&gt;&lt;p&gt;终于算是搭成自己的博客了，还记得自己初中就搞过这些博客搭建什么的，甚至申请过博客园&lt;br&gt;……&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h2 id=&quot;第一篇博文&quot;&gt;&lt;a href=&quot;#第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;第一篇博文&quot;&gt;&lt;/a&gt;第一篇博文&lt;/h2&gt;&lt;p&gt;第一次写博客，总是卡文……&lt;/p&gt;
+&lt;p&gt;我和博客最初的故事，大概发生在初三和初四。那年我抱着「想要拥有个人网站」的</summary>
       
     
     
+    
+    <category term="成长日志" scheme="https://caschanser.cc/categories/%E6%88%90%E9%95%BF%E6%97%A5%E5%BF%97/"/>
     
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/07/13/hello-world/"/>
-    <id>http://example.com/2025/07/13/hello-world/</id>
+    <link href="https://caschanser.cc/2025/07/13/hello-world/"/>
+    <id>https://caschanser.cc/2025/07/13/hello-world/</id>
     <published>2025-07-13T08:28:22.804Z</published>
     <updated>2025-07-13T08:28:22.804Z</updated>
     
