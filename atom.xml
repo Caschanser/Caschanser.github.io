@@ -6,7 +6,7 @@
   <link href="https://caschanser.cc/atom.xml" rel="self"/>
   
   <link href="https://caschanser.cc/"/>
-  <updated>2025-07-15T17:03:45.278Z</updated>
+  <updated>2025-07-24T12:27:41.125Z</updated>
   <id>https://caschanser.cc/</id>
   
   <author>
@@ -21,40 +21,20 @@
     <link href="https://caschanser.cc/2025/07/13/test/"/>
     <id>https://caschanser.cc/2025/07/13/test/</id>
     <published>2025-07-13T11:06:18.000Z</published>
-    <updated>2025-07-15T17:03:45.278Z</updated>
+    <updated>2025-07-24T12:27:41.125Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="第一篇博文"><a href="#第一篇博文" class="headerlink" title="第一篇博文"></a>第一篇博文</h2><p>第一次写博客，总是卡文……</p><p>我和博客最初的故事，大概发生在初三和初四。那年我抱着「想要拥有个人网站」的想法开始研究搭建博客，依稀记得当时尝试过用Gridea在Github上面搭建博客，也注册过一个博客园账号，但均不了了之，最后空空如也。</p><p>而现在之所以又想起来博客搭建这事，大概是一时兴起，说起来也算「朝花夕拾」了吧。而这一次，博客的搭建是通过hexo框架完成的。因为自己近一年将linux作为主力系统使用的经历，面对hexo的命令行界面也是轻松上手。即使没有这段经历，熟练使用命令行也应该是每个CS学子的基本功。不但如此，我甚至还专门为自己的博客买了一个域名&lt;caschanser.cc&gt;。这也正是你们光临「未央之家」的方式，免去了 .github.io 这样的后缀。（也许某天会迁移到.com或者.org这样的顶级域名，不过这都是后话了）</p><p>总而言之，欢迎来到未央之家！</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="第一篇博文"><a href="#第一篇博文" class="headerlink" title="第一篇博文"></a>第一篇博文</h2><p>第一次写博客，总是卡文……</p><p>我和博客最初的故事，大概发生在初三初四的时候。那时，抱着「想要拥有个人网站」这一想法的我开始研究博客搭建，依稀记得自己尝试过用Gridea在Github上面搭建博客，也曾注册过一个博客园账号，但都不了了之，空空如也。</p><p>而现在又把博客搭建起来，大概是一时兴起，说起来也算「朝花夕拾」了吧。这次也专门为自己的博客买了一个域名<a href="https://caschanser.cc/">https://caschanser.cc</a>。这也正是你们光临「未央之家」的方式，从而免去了 .github.io 这样的后缀。（也许某天会迁移到像 .com 或者 .org 这样的顶级域名，不过这都是后话了）</p><p>总而言之，欢迎来到未央之家！</p>]]></content>
     
     
       
       
     <summary type="html">&lt;h2 id=&quot;第一篇博文&quot;&gt;&lt;a href=&quot;#第一篇博文&quot; class=&quot;headerlink&quot; title=&quot;第一篇博文&quot;&gt;&lt;/a&gt;第一篇博文&lt;/h2&gt;&lt;p&gt;第一次写博客，总是卡文……&lt;/p&gt;
-&lt;p&gt;我和博客最初的故事，大概发生在初三和初四。那年我抱着「想要拥有个人网站」的</summary>
+&lt;p&gt;我和博客最初的故事，大概发生在初三初四的时候。那时，抱着「想要拥有个人网站</summary>
       
     
     
     
     <category term="成长日志" scheme="https://caschanser.cc/categories/%E6%88%90%E9%95%BF%E6%97%A5%E5%BF%97/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://caschanser.cc/2025/07/13/hello-world/"/>
-    <id>https://caschanser.cc/2025/07/13/hello-world/</id>
-    <published>2025-07-13T08:28:22.804Z</published>
-    <updated>2025-07-13T08:28:22.804Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
-      
-    
-    
     
     
   </entry>
